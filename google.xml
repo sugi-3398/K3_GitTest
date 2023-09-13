@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Google Suite">
+  <test thread-count="5" name="google Test">
+    <classes>
+      <class name="a1_googleTest.A1_SampleGoogle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
